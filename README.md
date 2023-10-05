@@ -2,7 +2,7 @@
  <img  width="800" height="400" src="https://github.com/Terbish/Terbish/blob/master/social/yashs.gif">
 </p>
 <h2 align="center">Hello there! My name is Jerry Shen. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Science in Computer Science at Seattle University :student:. I'm passionate about areas of machine learning like Large Language Models, I am also very interested in getting my feet wet in the Cyber Security field :man_technologist:. I also got very interested in 5G technology and its applications after my internship in Germany 🇩🇪 
+<p align="center">I'm currently a student pursuing my Bachelor of Science in Computer Science at Seattle University :student:. I'm passionate about areas of machine learning like Large Language Models, I am also very interested in getting my feet wet in the Cyber Security field :man_technologist:. I also got very interested in 5G technology and its applications after my internship in Germany 🇩🇪. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me playing video games, I am a massive Final Fantasy 14 player! I also love going to the gym, it keeps me fit and help clear my mind 💪. Memes are something that I absolutely love! Connect with me through any of my socials and let's exchange memes! </p>
