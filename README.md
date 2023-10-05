@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hello there! My name is Jerry Shen. 👋🤓</h2>
 
-<p align="center">I am currently pursuing a Bachelor of Science in Computer Science at Seattle University. I have a keen interest in machine learning, particularly in the realm of Large Language Models. Additionally, I'm eager to explore the field of Cyber Security. My internship in Germany sparked my fascination with 5G technology and its diverse applications. </p>
+<p align="center">I am currently pursuing a Bachelor of Science in Computer Science at Seattle University. I have a keen interest in software development, I particularly enjoy the process of creating something. Additionally, I'm eager to explore the field of Cyber Security. My internship in Germany sparked my fascination with 5G technology and its diverse applications. </p>
 
 <p align="center">Outside of coding and development, I am an avid player of Final Fantasy 14. I also maintain a healthy lifestyle by hitting the gym, which not only keeps me fit but also helps clear my mind. Memes are my guilty pleasure! Feel free to connect with me on social media to share some laughs and memes.</p>
 
