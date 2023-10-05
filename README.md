@@ -2,10 +2,13 @@
  <img  width="800" height="400" src="https://github.com/Terbish/Terbish/blob/master/social/yashs.gif">
 </p>
 <h2 align="center">Hello there! My name is Jerry Shen. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Science in Computer Science at Seattle University :student:. I'm passionate about areas of machine learning like Large Language Models, I am also very interested in getting my feet wet in the Cyber Security field :man_technologist:. I also got very interested in 5G technology and its applications after my internship in Germany 🇩🇪. 
-</p>
 
-<p align="center">When I'm not developing and coding, you can find me playing video games, I am a massive Final Fantasy 14 player! I also love going to the gym, it keeps me fit and help clear my mind 💪. Memes are something that I absolutely love! Connect with me through any of my socials and let's exchange memes! </p>
+<p align="center">I am currently pursuing a Bachelor of Science in Computer Science at Seattle University. I have a keen interest in machine learning, particularly in the realm of Large Language Models. Additionally, I'm eager to explore the field of Cyber Security. My internship in Germany sparked my fascination with 5G technology and its diverse applications. </p>
+
+<p align="center">Outside of coding and development, I am an avid player of Final Fantasy 14. I also maintain a healthy lifestyle by hitting the gym, which not only keeps me fit but also helps clear my mind. Memes are my guilty pleasure! Feel free to connect with me on social media to share some laughs and memes.</p>
+
+<p align="center">A little more about my background: I was born in Peru but spent my formative years in China until I completed middle school. I returned to Peru to finish my high school education at a British institution. Post-graduation, I found myself uncertain about my career path and life goals. Thankfully, my father was incredibly supportive and allowed me the time to explore my options. Over the next five years, I traveled extensively—visiting countries like France, Austria, Venezuela, Malaysia, and various parts of the US and China. Along the way, I met a diverse array of people and was fortunate to form lasting friendships. These experiences reignited my passion for programming and the thrill of creation. This led me to apply to universities in the US, setting me on my current academic journey.</p>
+
 
 <p align="center"><a href="https://twitter.com/Jshenli97"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="www.linkedin.com/in/jerryshen97"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_jerry_shen_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
