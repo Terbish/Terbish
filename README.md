@@ -33,7 +33,8 @@
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terbish&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=terbish&theme=calm&show_icons=true&hide_border=true&count_private=true">
+ <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=terbish&theme=calm&hide_border=true">
 </p>
 
 
